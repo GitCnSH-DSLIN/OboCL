@@ -1,4 +1,4 @@
-# OboCL
+# OboCL 这是一个Gantt甘特图控件
 Obo Component Library for Pascal/Lazarus/Delphi.
 
 This library is composed by a set of graphics components and a framework for building reporting systems.
